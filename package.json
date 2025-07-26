@@ -1,0 +1,7 @@
+{
+  "name": "ftp-webhook",
+  "version": "1.0.0",
+  "dependencies": {
+    "basic-ftp": "5.0.5"
+  }
+}
